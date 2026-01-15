@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Build artifacts
+dist/
+build/
+*.spec
+
+# Executables
+*.exe
+
+# Data / outputs (개인정보/결과물 들어갈 가능성)
+data/
+outputs/
+reports/
+*.csv
+*.xlsx
+*.pdf
+
+# OS/IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+EOF
