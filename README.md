@@ -96,6 +96,8 @@ flowchart LR
     %% 스타일
     linkStyle default stroke-width:3px,stroke:black;
 
+```
+
 ## 🛠 Tech Stack
 
 | Category | Technology | Description |
