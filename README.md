@@ -130,4 +130,4 @@ flowchart LR
 ## 🚀 How to Run
 1. Clone this repository.
    ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+   git clone [https://github.com/wns5255/unity-golf-simulator.git](https://github.com/wns5255/unity-golf-simulator.git)
