@@ -10,7 +10,7 @@
 <br/>
 
 ## 📸 Project Showcase
-![Demo Preview](https://drive.google.com/file/d/1qMDzOsK87unhMeLp3wk7bXjgQsBZXF6z/view?usp=drive_link)
+![Demo Preview](samples/image1 (1).png)
 
 <br/>
 
