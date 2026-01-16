@@ -132,7 +132,7 @@ flowchart LR
    ```bash
    git clone https://github.com/wns5255/unity-golf-simulator.git
    ```
-
+* 일부 에셋은 불포함 되어있습니다. 사용 시 별도 요청 바랍니다. 
 <br/>
 
 ## ⚖️ License
