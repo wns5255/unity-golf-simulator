@@ -5,7 +5,7 @@
 ![GIS](https://img.shields.io/badge/GIS-DEM%20Data-blue?style=flat-square)
 ![Platform](https://img.shields.io/badge/Platform-PC-lightgrey?style=flat-square)
 
-> **실제 지형 데이터(DEM 90m)를 활용하여 국내 실외 골프장의 지형을 유니티 상에 정밀하게 모델링한 GIS 기반 골프 시뮬레이션 프로젝트입니다.**
+> **실제 지형 데이터(DEM 90m)를 활용하여 국내 실외 골프장의 지형을 유니티 상에 모델링한 GIS 기반 골프 시뮬레이션 프로젝트입니다.**
 
 <br/>
 
