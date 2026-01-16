@@ -138,6 +138,7 @@ flowchart LR
 ## ⚖️ License
 
 **Copyright (c) Soongsil University. All Rights Reserved.**
+
 This project was developed as part of a curriculum or research at **Soongsil University**.
 The intellectual property and copyright of this software belong to **Soongsil University**.
 Unauthorized commercial use or distribution is prohibited.
