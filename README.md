@@ -10,7 +10,7 @@
 <br/>
 
 ## 📸 Project Showcase
-![Demo Preview](https://via.placeholder.com/800x400?text=Upload+Your+Demo+GIF+Here)
+![Demo Preview](https://drive.google.com/file/d/1qMDzOsK87unhMeLp3wk7bXjgQsBZXF6z/view?usp=drive_link)
 
 <br/>
 
